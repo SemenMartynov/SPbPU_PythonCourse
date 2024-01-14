@@ -1,0 +1,46 @@
+[
+    {
+        "longitude": "-122.050000",
+        "latitude": "37.370000",
+        "housing_median_age": "27.000000",
+        "total_rooms": "3885.000000",
+        "total_bedrooms": "661.000000",
+        "population": "1537.000000",
+        "households": "606.000000",
+        "median_income": "6.608500",
+        "median_house_value": "344700.000000"
+    },
+    {
+        "longitude": "-118.300000",
+        "latitude": "34.260000",
+        "housing_median_age": "43.000000",
+        "total_rooms": "1510.000000",
+        "total_bedrooms": "310.000000",
+        "population": "809.000000",
+        "households": "277.000000",
+        "median_income": "3.599000",
+        "median_house_value": "176500.000000"
+    },
+    {
+        "longitude": "-117.810000",
+        "latitude": "33.780000",
+        "housing_median_age": "27.000000",
+        "total_rooms": "3589.000000",
+        "total_bedrooms": "507.000000",
+        "population": "1484.000000",
+        "households": "495.000000",
+        "median_income": "5.793400",
+        "median_house_value": "270500.000000"
+    },
+    {
+        "longitude": "-118.360000",
+        "latitude": "33.820000",
+        "housing_median_age": "28.000000",
+        "total_rooms": "67.000000",
+        "total_bedrooms": "15.000000",
+        "population": "49.000000",
+        "households": "11.000000",
+        "median_income": "6.135900",
+        "median_house_value": "330000.000000"
+    }
+]
