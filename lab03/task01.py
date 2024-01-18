@@ -3,8 +3,9 @@ def get_id_by_name(items, item):
     """
     Функция для поиска индекса первого вхождения элемента в списке товаров.
     """
-    if item in items:
-        return items.index(item)
+    for key, val in enumerate(items):
+        if val == item:
+            return key
     return None
 
 
